@@ -1,0 +1,6 @@
+f1 = open("computer.jpg", "rb")
+f2 = open("newComputer.jpg", "wb")
+x = f1.read()
+f2.write(x)
+f1.close()
+f2.close()

@@ -1,0 +1,6 @@
+Hello. I am learning file handling topic in Python.
+I am enjoying it.
+I am learning a lot of new things.
+I am learning how to read and write files in Python.
+It's 9:00 AM. in Delhi.This is the first line.
+This is the second line.
